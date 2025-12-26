@@ -14,4 +14,12 @@ export const CONTRIBUTORS: Contributor[] = [
     name: 'Aditya Shirsatrao',
     github: 'adityashirsatrao007',
   },
+  {
+    name: 'Ashutosh kesarwani',
+    github: 'Lucifer-0612',
+  },
+  {
+    name: 'Harshvardhan',
+    github: '@HARSH4885-svg',
+  },
 ];
